@@ -1,0 +1,38 @@
+[
+    
+    {
+      "id": 1,
+      "question": "What is the use of the create-react-app command in the React.js application??",
+      "options": ["It is used to update a React app.","It is used to create a new React app.","It is used to install dependencies.","None of the above."],
+      "answer": "It is used to create a new React app.",
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 2,
+      "question": "Which of the following is the correct name of React.js?",
+      "options": ["React", "React.js", "ReactJS", "All of the above"],
+      "answer": "All of the above",
+      "correctOptionIndex": 3
+    },
+    {
+      "id": 3,
+      "question": "What does ES6 stand for?",
+      "options": ["ECMAScript 6","ECMA 6","ECMAJavaScript 6","EJavaScript 6"],
+      "answer": "ECMAScript 6",
+      "correctOptionIndex": 0
+    },
+    {
+      "id": 4,
+      "question": "Which of the following command is used to install create-react-app?",
+      "options": ["npm install -g create-react-app","npm install create-react-app","npm install -f create-react-app","install -g create-react-app"],
+      "answer": "npm install -g create-react-app",
+      "correctOptionIndex": 0
+    },
+    {
+      "id": 5,
+      "question": " What is a state in React?",
+      "options": ["A permanent storage.","Internal storage of the component.","External storage of the component.","None of the above."],
+      "answer": "Internal storage of the component.",
+      "correctOptionIndex": 1
+    }
+  ]
